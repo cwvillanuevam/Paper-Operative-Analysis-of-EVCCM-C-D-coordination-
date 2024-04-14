@@ -1,0 +1,6 @@
+Name of scenary: Sc2
+					PS only load:		Min MCS		Max MCS
+Energy Supplied:    	2868.76	2882.57	2961.71
+Energy Lost:        	 125.72	 126.93	 134.68
+Not Served Energy:  	   0.00	   0.00	   0.00
+Maximum NSP:        	   0.00	   0.00	   0.00

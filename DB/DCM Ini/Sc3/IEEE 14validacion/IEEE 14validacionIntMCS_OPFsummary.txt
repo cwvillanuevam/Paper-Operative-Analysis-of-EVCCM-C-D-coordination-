@@ -1,0 +1,5 @@
+Name of scenary: Sc3
+			PS only load:		Min MCS		Max MCS
+Energy Load:	 2743.04		2871.26		2836.12
+Peak Load:  	  250.11		 266.09		 261.79
+Load factor:	    0.46		   0.43		   0.44
