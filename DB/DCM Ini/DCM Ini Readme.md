@@ -11,4 +11,4 @@ This information allows centralized managers to commit the energy traded in ener
 
 But even for the minimum Monte Carlo Simulation output, the power flow operation require not served energy to be executed. This exceution is shown in the [Scenario 3: Min MCS output Power Flow](./Sce3/IEEE%2014validacion/IEEE%2014validacionPSF3.jpg).
 
-![Scenario 3: Min MCS output Power Flow](./Sce3/IEEE%2014validacion/IEEE%2014validacionPSF3.jpg).
+![Scenario 3: Min MCS output Power Flow](.//Sc3/IEEE%2014validacion/IEEE%2014validacionPSF3.jpg).
