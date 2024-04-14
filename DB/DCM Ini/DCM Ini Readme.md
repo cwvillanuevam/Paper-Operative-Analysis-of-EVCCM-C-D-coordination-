@@ -5,4 +5,4 @@ This directory contained the first  decentralized  charging management implement
 * Data bases of EV characterization from Monte Carlo Simulation. (PCarBusResults...)
 * Results from power flow optimization per scenario (Sc...)
 
-This information allows centralized managers to commit the energy traded in energy market by Electric Vehicle Aggregators. The scenarios 1 and 2 didn't present not serve energy participation in power flow performance. 
+This information allows centralized managers to commit the energy traded in energy market by Electric Vehicle Aggregators. The scenarios 1 and 2 didn't present not serve energy participation in power flow performance. Even the maximum output of the second escenario (which has 2500 EV characterized) is still in normal operation condition see the next Figure.
