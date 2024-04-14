@@ -1,0 +1,17 @@
+Minimum charge required by PS: 28.1678004 	 corresponding to sample 41
+Maximum charge required by PS: 37.1705408 	 corresponding to sample 52
+bus 	 EVs from in min: 	 EVs to in min: 	 EVs from in max: 	EVs to in max: 	
+    1    0    0    0    0
+    2   47   61   47   61
+    3   37  105   37  105
+    4  144   82  144   82
+    5   72   52   72   52
+    6   68   82   68   82
+    7    0    0    0    0
+    8    0    0    0    0
+    9  113  106  113  106
+   10  106   98  106   98
+   11   68   63   68   63
+   12   56   14   56   14
+   13   34   61   34   61
+   14   28   49   28   49
