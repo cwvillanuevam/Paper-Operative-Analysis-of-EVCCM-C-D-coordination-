@@ -9,7 +9,8 @@ In order to achieve this aim the DNO proyected 3 scenarios of electric vehicle a
 * Scenario 1: Pessimist adoption (0.08 Market participation: 2000 EVs proyected).
 * Scenario 2: Normal adoption (0.1 Market participation: 2500 EVs proyected).
 * Scenario 3: Optimist adoption (0.15 Market participation: 3750 EVs proyected).
-For every scenario studied, there are 2 main outputs that characterize the EV patterns (geographic and travel patterns). They are characterized using [Monte Carlo Simulation](//MCS%20Inputs/) for the stochastic analysis.
+
+For every scenario studied, there are 2 main outputs that characterize the EV patterns (geographic and travel patterns). They are characterized using [Monte Carlo Simulation](.//MCS%20Inputs/) for the stochastic analysis.
 
 Based in academic advances, the DNO projected a first option, which require investments in distribution network generation even for its pessimist scenario (As seen in [[1]](https://ingenius.ups.edu.ec/index.php/ingenius/article/view/7272). This option only consider the uncontrolled charging effect and don't seem to be a natural alternative for them as power system policiers, because in the worst case they should manage an investment of $ 1,877,658.44, only related to lack of energy management measures.
 
