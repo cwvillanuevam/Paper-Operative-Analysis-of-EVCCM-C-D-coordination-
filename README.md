@@ -1,6 +1,14 @@
 # Paper-Operative-Analysis-of-EVCCM-C-D-coordination-
 Paper: "Operative Analysis of Electric Vehicle Controlled Charging Management: Centralized - Decentralized coordination"
 
+# Highlights
+
+\item Geographic and travel patterns characterize behavioral groups of electric vehicles
+\item Grouping characterization keeps measures neutrality, serving as base information
+\item Decentralized charging management is modified under coordination constrains
+\item Centralized charging management operator coordinates the electric market operation
+\item Data analysis, mining and synthesis allows the distribution power system analysis
+
 # [Data Base Presentation](.//DB/DB%20Readme.md)
 The present Data Base represents the minimum information data required for verification (under research team consideration). This is shown as practical application based in the next case.
 
