@@ -41,7 +41,7 @@ Considering their alternatives, they should manage the decentralized and central
 
 The DNO notice that, even with this management measure (policy required), they could face even more than this electric management, improving the coordination between the EVAs (1 per each load bus bar in power system) and them as operators. Implementing a constrained energy trading proccess for EVAs. As reported in [Centralized Constraint](.//Centralized%20Constraint) Applicating this constraints from DNO as Centralized Electric Vehicle Charging Management (CEVCM) to DEVCM the power system complete the optimal power flow in normal state, as seen in the next [figure](.//DB/Decentralized%20PF%20Constrained/IEEE%2014validacion/IEEE%2014validacionPSF4.jpg). This improve is verified with the absence of not served energy in the power flow.
 
-![Figure 2: Scenario 3 Maximum MCS output constrained](.//DB/Decentralized%20PF%20Constrained/IEEE%2014validacion/IEEE%2014validacionPSF4.jpg). 
+![Figure 2: Scenario 3 Maximum MCS output constrained](.//DB/Decentralized%20PF%20Constrained/IEEE%2014validacion/IEEE%2014validacionPSF4.jpg)
 
 [[1] C. W. Villanueva-Machado, J. E. Luyo, A. Rios-Villacorta,  Monte carlo simulation of uncontrolled electric vehicle charging  impact on distributed generation, *Ingenius. Revista de Ciencia y Tecnología* 30 (10) (2023) 120–134.](https://ingenius.ups.edu.ec/index.php/ingenius/article/view/7272).
 
