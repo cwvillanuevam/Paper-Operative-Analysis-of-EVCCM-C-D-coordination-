@@ -12,4 +12,4 @@ In order to achieve this aim the DNO proyected 3 scenarios of electric vehicle a
 
 Based in academic advances DNO projected a first option which require investments in distribution network generation (As seen in [1](https://ingenius.ups.edu.ec/index.php/ingenius/article/view/7272)
 
-["[1] Villanueva-Machado, Carlos W.; Luyo, Jaime E.; Rios-Villacorta, Alberto (2023), Monte Carlo simulation of uncontrolled Electric Vehicle charging impact on distributed generation, *Ingenius*, Volumme 30  N°10"](https://ingenius.ups.edu.ec/index.php/ingenius/article/view/7272).
+["[1] C. W. Villanueva-Machado, J. E. Luyo, A. Rios-Villacorta,  Monte carlo simulation of uncontrolled electric vehicle charging  impact on distributed generation, *Ingenius. Revista de Ciencia y Tecnología* 30 (10) (2023) 120–134."](https://ingenius.ups.edu.ec/index.php/ingenius/article/view/7272).
