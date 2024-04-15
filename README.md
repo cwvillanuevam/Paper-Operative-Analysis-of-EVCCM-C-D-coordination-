@@ -9,7 +9,9 @@ Paper: "Operative Analysis of Electric Vehicle Controlled Charging Management: C
 * Centralized charging management operator coordinates the electric market operation
 * Data analysis, mining and synthesis allows the distribution power system analysis
 
-# Graphical Abstract
+# [Graphical Abstract](.//DB/GA.png)
+
+![Graphical Abstract](.//DB/GA.png)
 
 # [Data Base Presentation](.//DB/DB%20Readme.md)
 The present Data Base represents the minimum information data required for verification (under research team consideration). This is shown as practical application based in the next case.
