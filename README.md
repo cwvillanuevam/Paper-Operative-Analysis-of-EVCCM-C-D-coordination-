@@ -13,6 +13,14 @@ Paper: "Operative Analysis of Electric Vehicle Controlled Charging Management: C
 
 ![Graphical Abstract](.//DB/GA.png)
 
+# Abstract
+
+The application of controlled electric vehicle charging management is performed in a centralized and decentralized way. Strategic coordination between them is essential to optimize energy systems efficiency and performance, balance electric load, and facilitate the adoption of electric vehicles, promoting a sustainable and emission – free society. The distribution network operators (as centralized charging managers) must control the lack of coordination among electric vehicle aggregators (decentralized managers selected for this study). This research aims to constrain every decentralized optimization model (the electric vehicle load is characterized using Monte Carlo simulation) as a centralized management measure to supply the power system load. The decentralized management is compared with unregulated charging in 3 scenarios of electric vehicle adoption (2000, 2500, 3750 electric vehicles), testing the performance of the IEEE 14 buses power system, improving the distribution network operation performance. Just for the third scenario of electric vehicle adoption the power system requires more energy than supplied. The study models the constraints in energy traded per each electric vehicle aggregator (one per power system bus bar with load). Results in transmission are analyzed, synthesized, and applied to the IEEE 13 buses distribution power system model. Transmission and distribution power systems show that the coordination between centralized and decentralized charging management keeps the normal operation conditions in power systems. The application of coordination can enhance the operation of electric power systems and vehicle fleets with an scheduled operation in order to adopt electric vehicles and schedule its charging management.
+
+# Keywords
+
+Electric Vehicles, Electric Vehicle Aggregators, Monte Carlo Simulation, Optimal Power Flow, Distribution Network Operator, Power System.
+
 # [Data Base Presentation](.//DB/DB%20Readme.md)
 The present Data Base represents the minimum information data required for verification (under research team consideration). This is shown as practical application based in the next case.
 
