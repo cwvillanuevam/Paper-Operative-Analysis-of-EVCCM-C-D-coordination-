@@ -10,6 +10,6 @@ In order to achieve this aim the DNO proyected 3 scenarios of electric vehicle a
 * Scenario 2: Normal adoption (0.1 Market participation: 2500 EVs proyected).
 * Scenario 3: Optimist adoption (0.15 Market participation: 3750 EVs proyected).
 
-Based in academic advances DNO projected a first option which require investments in distribution network generation (As seen in [1](https://ingenius.ups.edu.ec/index.php/ingenius/article/view/7272)
+Based in academic advances DNO projected a first option which require investments in distribution network generation (As seen in [[1]](https://ingenius.ups.edu.ec/index.php/ingenius/article/view/7272)
 
-["[1] C. W. Villanueva-Machado, J. E. Luyo, A. Rios-Villacorta,  Monte carlo simulation of uncontrolled electric vehicle charging  impact on distributed generation, *Ingenius. Revista de Ciencia y Tecnología* 30 (10) (2023) 120–134."](https://ingenius.ups.edu.ec/index.php/ingenius/article/view/7272).
+[[1] C. W. Villanueva-Machado, J. E. Luyo, A. Rios-Villacorta,  Monte carlo simulation of uncontrolled electric vehicle charging  impact on distributed generation, *Ingenius. Revista de Ciencia y Tecnología* 30 (10) (2023) 120–134.](https://ingenius.ups.edu.ec/index.php/ingenius/article/view/7272).
